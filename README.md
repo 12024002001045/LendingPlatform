@@ -22,4 +22,6 @@ The vision of this project is to create a trustless and decentralized financial 
 - **Smart Contract Automation**: Secure fund management with predefined rules.
 - **Liquidity Pool**: Enables users to contribute liquidity and earn incentives.
 - **Scalability & Flexibility**: Potential for multi-chain support and feature expansion.
-
+## contract address
+0x0e93875714eef37939ca6f2b2322c095f8997b6ae80be38cb67043fe2430476a
+![Uploading image.png…]()
